@@ -1,0 +1,42 @@
+﻿  Compute_Slice.cpp
+C:\Users\ethan\OneDrive\Desktop\University\Year 2\ds2\Week 5\mandelbrot\mandelbrot\Compute_Slice.cpp(107,23): warning C4244: 'argument': conversion from '_Rep' to 'const _Ty', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+  main.cpp
+C:\Users\ethan\OneDrive\Desktop\University\Year 2\ds2\Week 5\mandelbrot\mandelbrot\main.cpp(167,24): warning C4244: 'argument': conversion from '_Rep' to 'const _Ty', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\ethan\OneDrive\Desktop\University\Year 2\ds2\Week 5\mandelbrot\mandelbrot\main.cpp(188,26): warning C4244: 'argument': conversion from '_Rep' to 'const _Ty', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\ethan\OneDrive\Desktop\University\Year 2\ds2\Week 5\mandelbrot\mandelbrot\main.cpp(299,21): warning C4244: 'argument': conversion from '_Rep' to 'const _Ty', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+Compute_Slice.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:REF' specification
+  mandelbrot.vcxproj -> C:\Users\ethan\OneDrive\Desktop\University\Year 2\ds2\Week 5\mandelbrot\x64\Debug\mandelbrot.exe
