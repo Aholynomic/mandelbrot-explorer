@@ -1,6 +1,6 @@
 # mandelbrot-explorer
 
-The application creates an interactive Mandelbrot that allows you to zoom into two pre-specified coordinates. It uses the SFML library to render the Mandelbrot image, computed using a CPU farming pattern, to be viewed on the display. Once the Mandelbrot has been fully computed, it will then signal the render task using a channel to display the image to the user. This was part of a module called CMP202.
+The application creates an interactive Mandelbrot that allows you to zoom into two pre-specified coordinates. It uses the SFML library to render the Mandelbrot image, computed using a CPU farming pattern, to be viewed on the display. Once the Mandelbrot has been fully computed, it will then signal the render task using a channel to display the image to the user. This was created for a module called CMP202.
 
 ## Contents
 *  project202 - config and source files for Mandelbrot
